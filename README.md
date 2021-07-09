@@ -1,2 +1,4 @@
 # Huberman-Lab-Podcast-Transcripts
 MS Word Doc transcripts of Huberman Lab Podcast episodes (https://www.youtube.com/channel/UC2D2CMWXMOVWx7giW1n3LIg). Each MS Word Doc transcript is derived from the YouTube transcript of the corresponding podcast episode. 
+
+Will be uploading transcripts at a rate of several a week. 
